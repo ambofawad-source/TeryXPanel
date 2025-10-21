@@ -1,1 +1,1 @@
-# mchosting
+# TeryxPanel
